@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "next": "13.4.6",
+    "next-pwa": "^5.0.5",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "styled-components": "5.3.10"
@@ -45,6 +46,7 @@
     "jest-styled-components": "^7.1.1",
     "lint-staged": "^13.2.2",
     "prettier": "2.8.8",
-    "typescript": "5.0"
+    "typescript": "5.0",
+    "webpack": "^4.46.0"
   }
 }
